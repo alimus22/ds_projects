@@ -1,2 +1,2 @@
 # ds_projects
-Collection of data science projects that acts as an introduction to the field. 
+Collection of data science projects that act as an introduction to the field. 
